@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prac</string>
+    <string name="no_data">No Data!</string>
+    <string name="details_of_the_article">Details Of The Article</string>
+    <string name="practical_trootech">Practical TRooTech</string>
+    <string name="trootech_practical">TrooTech Practical</string>
+</resources>
